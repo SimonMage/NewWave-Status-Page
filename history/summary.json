@@ -4,9 +4,9 @@
     "url": "https://auth.newwave.fun/session",
     "icon": "https://icons.duckduckgo.com/ip3/auth.newwave.fun.ico",
     "slug": "drasl-multiplayer-session-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 415,
     "timeMonth": 415,
     "timeYear": 415,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-28": 0
+    }
   },
   {
     "name": "Drasl Authserver",
     "url": "https://auth.newwave.fun/auth",
     "icon": "https://icons.duckduckgo.com/ip3/auth.newwave.fun.ico",
     "slug": "drasl-authserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 99,
     "timeMonth": 99,
     "timeYear": 99,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-28": 0
+    }
   },
   {
     "name": "Mojang Multiplayer Session Service",
@@ -58,9 +62,9 @@
     "url": "https://auth.newwave.fun",
     "icon": "https://icons.duckduckgo.com/ip3/auth.newwave.fun.ico",
     "slug": "skins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +73,18 @@
     "timeWeek": 99,
     "timeMonth": 99,
     "timeYear": 99,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-28": 0
+    }
   },
   {
     "name": "Drasl's Public API",
     "url": "https://auth.newwave.fun/auth",
     "icon": "https://icons.duckduckgo.com/ip3/auth.newwave.fun.ico",
     "slug": "drasl-s-public-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,16 +93,18 @@
     "timeWeek": 99,
     "timeMonth": 99,
     "timeYear": 99,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-28": 0
+    }
   },
   {
     "name": "Main Drasl Auth Website",
     "url": "https://auth.newwave.fun/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.newwave.fun.ico",
     "slug": "main-drasl-auth-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,16 +113,18 @@
     "timeWeek": 99,
     "timeMonth": 99,
     "timeYear": 99,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-28": 0
+    }
   },
   {
     "name": "drasl API",
     "url": "https://auth.newwave.fun/session/minecraft/profile",
     "icon": "https://icons.duckduckgo.com/ip3/auth.newwave.fun.ico",
     "slug": "drasl-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +133,8 @@
     "timeWeek": 98,
     "timeMonth": 98,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-28": 0
+    }
   }
 ]
