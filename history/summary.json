@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.newwave.fun.ico",
     "slug": "drasl-multiplayer-session-service",
     "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "86.00%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "97.66%",
-    "time": 975,
-    "timeDay": 2666,
-    "timeWeek": 975,
-    "timeMonth": 975,
-    "timeYear": 975,
+    "uptime": "93.45%",
+    "uptimeDay": "59.02%",
+    "uptimeWeek": "93.45%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "93.45%",
+    "time": 899,
+    "timeDay": 2591,
+    "timeWeek": 899,
+    "timeMonth": 899,
+    "timeYear": 899,
     "dailyMinutesDown": {
-      "2024-05-28": 201
+      "2024-05-29": 59,
+      "2024-05-28": 531
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.newwave.fun.ico",
     "slug": "drasl-authserver",
     "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "86.00%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "97.66%",
-    "time": 378,
-    "timeDay": 1236,
-    "timeWeek": 378,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "uptime": "93.45%",
+    "uptimeDay": "59.02%",
+    "uptimeWeek": "93.45%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "93.45%",
+    "time": 346,
+    "timeDay": 1214,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2024-05-28": 201
+      "2024-05-29": 59,
+      "2024-05-28": 531
     }
   },
   {
@@ -50,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 219,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "time": 93,
+    "timeDay": 99,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {}
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.newwave.fun.ico",
     "slug": "skins",
     "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "85.98%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "97.66%",
-    "time": 2804,
-    "timeDay": 8226,
-    "timeWeek": 2804,
-    "timeMonth": 2804,
-    "timeYear": 2804,
+    "uptime": "93.44%",
+    "uptimeDay": "58.99%",
+    "uptimeWeek": "93.44%",
+    "uptimeMonth": "93.44%",
+    "uptimeYear": "93.44%",
+    "time": 2533,
+    "timeDay": 8211,
+    "timeWeek": 2533,
+    "timeMonth": 2533,
+    "timeYear": 2533,
     "dailyMinutesDown": {
-      "2024-05-28": 202
+      "2024-05-29": 59,
+      "2024-05-28": 532
     }
   },
   {
@@ -83,18 +86,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.newwave.fun.ico",
     "slug": "drasl-s-public-api",
     "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "85.98%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "97.66%",
-    "time": 216,
-    "timeDay": 463,
-    "timeWeek": 216,
-    "timeMonth": 216,
-    "timeYear": 216,
+    "uptime": "93.44%",
+    "uptimeDay": "58.99%",
+    "uptimeWeek": "93.44%",
+    "uptimeMonth": "93.44%",
+    "uptimeYear": "93.44%",
+    "time": 204,
+    "timeDay": 448,
+    "timeWeek": 204,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {
-      "2024-05-28": 202
+      "2024-05-29": 59,
+      "2024-05-28": 532
     }
   },
   {
@@ -103,18 +107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.newwave.fun.ico",
     "slug": "main-drasl-auth-website",
     "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "85.98%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "97.66%",
-    "time": 1208,
-    "timeDay": 3439,
-    "timeWeek": 1208,
-    "timeMonth": 1208,
-    "timeYear": 1208,
+    "uptime": "93.44%",
+    "uptimeDay": "58.99%",
+    "uptimeWeek": "93.44%",
+    "uptimeMonth": "93.44%",
+    "uptimeYear": "93.44%",
+    "time": 1096,
+    "timeDay": 3424,
+    "timeWeek": 1096,
+    "timeMonth": 1096,
+    "timeYear": 1096,
     "dailyMinutesDown": {
-      "2024-05-28": 202
+      "2024-05-29": 59,
+      "2024-05-28": 532
     }
   },
   {
@@ -123,18 +128,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.newwave.fun.ico",
     "slug": "drasl-api",
     "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "85.97%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "97.66%",
-    "time": 358,
-    "timeDay": 891,
-    "timeWeek": 358,
-    "timeMonth": 358,
-    "timeYear": 358,
+    "uptime": "93.44%",
+    "uptimeDay": "58.99%",
+    "uptimeWeek": "93.44%",
+    "uptimeMonth": "93.44%",
+    "uptimeYear": "93.44%",
+    "time": 332,
+    "timeDay": 876,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2024-05-28": 202
+      "2024-05-29": 59,
+      "2024-05-28": 532
     }
   }
 ]
