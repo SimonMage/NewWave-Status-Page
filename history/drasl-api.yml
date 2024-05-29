@@ -1,7 +1,7 @@
 url: https://auth.newwave.fun/session/minecraft/profile
-status: down
-code: 502
-responseTime: 91
-lastUpdated: 2024-05-28T23:15:45.200Z
+status: up
+code: 404
+responseTime: 94
+lastUpdated: 2024-05-29T07:08:54.371Z
 startTime: 2024-05-22T18:54:27.490Z
 generator: Upptime <https://github.com/upptime/upptime>
